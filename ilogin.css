@@ -1,0 +1,58 @@
+.a1{
+    margin: 325px;
+    background-color:antiquewhite
+}
+.cl1{
+    border: 0.5px solid black;
+    text-align: center;
+    margin-top: 10px;
+    height: 350px;
+    width: 350px;
+    background-color: azure;
+    border-radius: 15px;
+    
+
+}
+
+
+input[TYPE="text"]{
+    background-color: white;
+    height: 25px;
+    width: 280px;
+    margin-bottom: 25px;
+    border-radius: 5px;
+}
+
+input[TYPE="password"]{
+    background-color: aliceblue;
+    height: 25px;
+    width: 280px;
+    border-radius: 5px;
+    margin-bottom: 25px;
+
+}
+
+input[TYPE=login]{
+    text-align: center;
+    background-color: rgb(125, 233, 218);
+    height: 25px;
+    width: 280px;
+    border-radius: 5px;
+    margin-bottom: 25px;
+}
+
+.hr{
+    width: 10px;
+    margin-bottom: 70px;
+}
+
+.cl2{
+    border: 0.5px solid black;
+    border-radius: 15px;
+    background-color: azure;
+   
+    text-align: center;
+    margin-top: 10px;
+    width: 350px;
+    height: 50px;
+}
